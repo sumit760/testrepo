@@ -1,3 +1,5 @@
 This is first commit in master branch
 
 This is second commit in master branch
+
+This is first commit in dev branch
